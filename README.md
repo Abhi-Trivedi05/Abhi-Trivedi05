@@ -189,8 +189,6 @@ class AbhiTrivedi:
 
 </div>
 
-*(Add repo links as `[Project Name](https://github.com/Abhi-Trivedi05/repo-name)` once your repos are public — happy to wire these in.)*
-
 ---
 
 ## 💼 Experience Timeline
@@ -281,10 +279,10 @@ Accepted research paper on deep learning approaches for detecting forged documen
 
 <div align="center">
 
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Skill_Boost_17_Badges-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](#)
-[![Google Workspace](https://img.shields.io/badge/Google-Workspace_Administrator-EA4335?style=flat-square&logo=google&logoColor=white)](#)
-[![Postman](https://img.shields.io/badge/Postman-API_Fundamentals_Student_Expert-FF6C37?style=flat-square&logo=postman&logoColor=white)](#)
-[![Udemy](https://img.shields.io/badge/Udemy-ChatGPT_Prompt_Engineering-A435F0?style=flat-square&logo=udemy&logoColor=white)](#)
+[![Nvidia](https://img.shields.io/badge/Nvidia-Fundamentals_of_deep_learning-FF6C37?style=flat-square&logo=nvidia&logoColor=white)](https://github.com/Abhi-Trivedi05/Certificates/blob/main/My%20Learning%20_%20NVIDIA.pdf)
+[![ICVGIP](https://img.shields.io/badge/ICVGIP-Certificate_of_Authorship-EA4335?style=flat-square&logo=ICVGIP&logoColor=white)](https://github.com/Abhi-Trivedi05/Certificates/blob/main/IGVGIP-conference_certificate.pdf)
+[![Udemy](https://img.shields.io/badge/Udemy-ChatGPT_Prompt_Engineering-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://github.com/Abhi-Trivedi05/Certificates/blob/main/prompt.certificate.pdf)
+
 
 </div>
 
