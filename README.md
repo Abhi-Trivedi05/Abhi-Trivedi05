@@ -111,17 +111,12 @@ class AbhiTrivedi:
 
 ---
 
-## 🐍 Contribution Snake
+📅 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhi-Trivedi05/Abhi-Trivedi05/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhi-Trivedi05/Abhi-Trivedi05/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhi-Trivedi05/Abhi-Trivedi05/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img src="https://ghchart.rshah.org/Abhi-Trivedi05" alt="Abhi's GitHub contribution graph" width="95%"/>
 </div>
 
-> 💡 To activate this snake animation, set up the [platane/snk](https://github.com/Platane/snk) GitHub Action on your `Abhi-Trivedi05/Abhi-Trivedi05` repo — it generates the SVG automatically from your contribution graph.
 
 ---
 
@@ -277,7 +272,6 @@ Accepted research paper on deep learning approaches for detecting forged documen
 | 🟡 LeetCode | [Profile](https://leetcode.com/u/4Z9uB0nG4c/) | Daily Coding Challenge Badge |
 | 🟠 CodeChef | [abhitrivedi200](https://www.codechef.com/users/abhitrivedi200) | **2★** |
 | 🟣 Codolio | [Abhi0507](https://codolio.com/profile/Abhi0507) | Aggregated Profile |
-| 💻 DSA | — | **200+ problems solved** |
 
 </div>
 
