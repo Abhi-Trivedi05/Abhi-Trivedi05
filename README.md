@@ -86,11 +86,6 @@ class AbhiTrivedi:
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+Engineering+%7C+Applied+AI;Building+Scalable+and+Intelligent+Systems;Consistency+over+Intensity+%F0%9F%9A%80" />
 
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhi-Trivedi05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79FF97&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true&custom_title=Abhi's%20GitHub%20Stats"/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-Trivedi05&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 <br><br>
 
