@@ -40,6 +40,7 @@ class AbhiTrivedi:
         self.university  = "IIIT Vadodara (ICD)  |  B.Tech CSE  |  2023–2027  |  CGPA: 8.67"
         self.experience  = ["SDE-1 @ Room as Home", "AI Intern @ Phoenix Lab Global", "TA @ IIIT Vadodara"]
         self.research    = ["Document Forgery Detection (ICVGIP'25)", "Agentic AI", "Computer Vision"]
+        self.programs    = ["Amazon ML Summer School 2026"]
         self.cp_ranks    = {
             "Codeforces" : "05Abhi05",
             "LeetCode"   : "Active — Daily Coding Challenge Badge",
